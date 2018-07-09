@@ -84,8 +84,6 @@ namespace xadrez
                     mudaJogador();
                 }
 
-                turno++;
-                mudaJogador();
            
         }
 
